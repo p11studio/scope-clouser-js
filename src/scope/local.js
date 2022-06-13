@@ -1,3 +1,4 @@
+//Clase 2 - Local Scope
 const helloWorld = () => {
     const hello = 'Hello World';
     console.log(hello)
